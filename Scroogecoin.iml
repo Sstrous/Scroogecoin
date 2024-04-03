@@ -9,5 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="rsa" level="project" />
+    <orderEntry type="library" name="algs4" level="project" />
+    <orderEntry type="library" name="scroogeCoinGrader" level="project" />
   </component>
 </module>
